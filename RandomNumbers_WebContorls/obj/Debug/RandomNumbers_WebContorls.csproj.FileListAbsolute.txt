@@ -1,5 +1,0 @@
-c:\users\merx3\documents\visual studio 2010\Projects\RandNumbers_WebControls\RandomNumbers_WebContorls\bin\RandomNumbers_WebContorls.dll
-c:\users\merx3\documents\visual studio 2010\Projects\RandNumbers_WebControls\RandomNumbers_WebContorls\bin\RandomNumbers_WebContorls.pdb
-c:\users\merx3\documents\visual studio 2010\Projects\RandNumbers_WebControls\RandomNumbers_WebContorls\obj\Debug\ResolveAssemblyReference.cache
-c:\users\merx3\documents\visual studio 2010\Projects\RandNumbers_WebControls\RandomNumbers_WebContorls\obj\Debug\RandomNumbers_WebContorls.dll
-c:\users\merx3\documents\visual studio 2010\Projects\RandNumbers_WebControls\RandomNumbers_WebContorls\obj\Debug\RandomNumbers_WebContorls.pdb
